@@ -1,0 +1,23 @@
+nbproject/*
+.sass-cache/
+.c9revisions/*
+.DS_Store
+.idea/
+_notes/
+.project
+*.sublime-project
+*.sublime-workspace
+sftp.json
+
+# OS generated files #
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ethumbs.db
+Thumbs.db
+/.project
+*.orig
+*.tmp
+*.log
