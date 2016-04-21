@@ -1,0 +1,23 @@
+{
+  "name": "gcweb-experimental",
+  "version": "1.0.0",
+  "description": "Web Experience Toolkit (WET): GCWEB theme layout pages",
+  "scripts": {
+    "postinstall": "bower update"
+    },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wet-boew/gcweb-experimental.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wet-boew/gcweb-experimental/issues"
+  },
+  "homepage": "https://github.com/wet-boew/gcweb-experimental#readme",
+  "devDependencies": {
+    "assemble": "^0.10.0",
+    "grunt": "^1.0.1",
+    "grunt-gh-pages": "^1.1.0"
+  }
+}
